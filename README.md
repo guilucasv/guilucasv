@@ -1,4 +1,4 @@
-## Olá, sou o Lucas Silva, seja bem-vindo ao meu perfil.. 🤩
+## Olá, é bom ter você por aqui !!  🤩
 <div align="center">
   <a href="https://github.com/guilucasv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilucasv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
